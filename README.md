@@ -9,8 +9,10 @@ Refer the following links for IoS configuration.
 
 # Pre-Requisite:
 - LTS version of [nodejs](https://nodejs.org/en/)
-- Either Android Studio or manual installation of Sdk, Java SE Kit and Android API
+- Either Android Studio or manual installation of Sdk, Java SE Kit and Android API.
+
 For setup with Android Studio refer [docs](https://reactnative.dev/docs/environment-setup).
+
 For setup without Android Studio, refer this [stackoverflow thread](https://stackoverflow.com/questions/45626310/how-to-set-up-android-for-react-native-without-android-studio-but-only-using-the).
  
 # Instructions:
