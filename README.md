@@ -40,4 +40,4 @@ For setup without Android Studio, refer this [stackoverflow thread](https://stac
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.VIBRATE"/>
 ```
-- All set! Finally run the command "react-native run-android" in the root diresctory of the project.
+- All set! Finally run the command "react-native run-android" in the root directory of the project.
